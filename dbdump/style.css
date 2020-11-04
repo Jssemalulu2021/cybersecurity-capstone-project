@@ -1,17 +1,17 @@
 /*****************************************************/
 /****General****/
-*
-{
-	margin:0px;
-	padding:0px;
+body {
+	background: #1690A7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
 }
-body
-{
-	background:#EDF0F6;
-	padding-left:10%;
-	padding-right:10%;
-	font-family: 'Montserrat', sans-serif;
-    color:#FFFFFF;
+
+*{
+	font-family: sans-serif;
+	box-sizing: border-box;
 }
 
 /* unvisited link */
